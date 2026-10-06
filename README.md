@@ -27,6 +27,37 @@ Here are some ideas to get you started:
 
 <h5><a href="https://nightylang.github.io/neo/" target="blank">Visit to Website</a></h5>
 
+### 🐧 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=kali,ubuntu,arch,debian,windows" />
+</p>
+
+---
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,php,csharp,java,c++" />
+</p>
+
+---
+
+### ⚙️ Dev / DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,sqlite,sqlserver,nginx,vscode" />
+</p>
+
+---
+
+### 💻 My Framework
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,laravel,vue,angular,aspdotnet,tailwind,bootstrap" />
+</p>
+
+---
 
 - 💬 Love to talk about **Cybersecurity**
 
