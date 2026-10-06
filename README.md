@@ -38,3 +38,14 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/lovezyen?igsh=dWYyZTN3bWk3M2k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="_thearjun_" height="30" width="40" /></a>   
 </p>
+
+
+# 📊 GitHub Stats
+
+<p>
+
+<img src="https://streak-stats.demolab.com/?user=nightylang&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
