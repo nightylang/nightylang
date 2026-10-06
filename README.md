@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+
 <h2 align="center"> Hi there 👋, I'm Nighty Lang <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">
@@ -21,6 +23,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/nightylang"><img title="Autor" src="https://img.shields.io/badge/Author-nightylang-blue?style=for-the-badge&logo=github"></a>
 
 </p>
+
+---
+
 
 <h4 align="center">Completed my study in Computer Science (Cybersecurity) at CUS University</h4>
 <br />
@@ -63,6 +68,9 @@ Here are some ideas to get you started:
 
 - 🐍 - Favourite programming language is **Python.**
 </br>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x4k5h4yx" height="30" width="40" /></a>
@@ -70,8 +78,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="_thearjun_" height="30" width="40" /></a>   
 </p>
 
+---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p>
 
