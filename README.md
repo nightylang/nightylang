@@ -42,7 +42,7 @@
 ### ⚙️ Dev / DevOps Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,sqlite,sqlserver,nginx,vscode,visaulstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,sqlite,nginx,vscode,visaulstudio" />
 </p>
 
 ---
